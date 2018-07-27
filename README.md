@@ -9,6 +9,6 @@ Natural Language Processing(NLP) is a wide research area where much research eff
     4. Evaluation  
 
 ## Datasets used for evaluations  
-    1. WS-353-Sim - Agirre et. al, 2009    
-    2. MC-30 - Miller and Charles, 1991  
-    3. RG-65 -  R and G, 1965     
+    1. WS-353-Sim - Agirre et. al, 2009 (http://alfonseca.org/eng/research/wordsim353.html)    
+    2. MC-30 - Miller and Charles, 1991 (http://www.tandfonline.com/doi/abs/10.1080/01690969108406936#.Uu_392SwIyV)  
+    3. RG-65 -  R and G, 1965 (http://dl.acm.org/citation.cfm?id=365657)     
