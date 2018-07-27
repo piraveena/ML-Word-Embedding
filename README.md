@@ -9,7 +9,6 @@ Natural Language Processing(NLP) is a wide research area where much research eff
     4. Evaluation  
 
 ## Datasets used for evaluations  
-    1. WS-353-Sim  
-    2. MC-30  
-    3. RG-65  
-   
+    1. WS-353-Sim - Agirre et. al, 2009    
+    2. MC-30 - Miller and Charles, 1991  
+    3. RG-65 -  R and G, 1965     
