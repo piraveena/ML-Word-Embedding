@@ -4,12 +4,12 @@ Natural Language Processing(NLP) is a wide research area where much research eff
 
 Methodology  
     1.Collecting corpus  
-    2.Preprocessing  
+  	2.Preprocessing  
     3.Model training  
     4.Evaluation  
 
 Datasets used are given  
     WS-353-Sim  
-    MC  
-    RG  
+    MC-30  
+    RG-65  
    
